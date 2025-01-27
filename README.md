@@ -5,7 +5,7 @@
 
 ---
 
-## 🧑‍💻 About Me  
+## 🧑‍💻 About Me   
 I am a developer focused on building modern web solutions, with a particular interest in **cybersecurity** and system optimization. I’m currently working on projects combining technologies like **Linux**, **Python**, and **JavaScript**. I also have hands-on experience with **CCNA Cisco** and basic network administration.
 
 ---
