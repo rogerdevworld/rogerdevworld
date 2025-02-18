@@ -50,5 +50,5 @@ I am a developer focused on building modern web solutions, with a particular int
 ### GitHub Statistics:
 <a href="https://github.com/rogerdevworld">
   <img src="https://github-readme-stats.vercel.app/api?username=rogerdevworld&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" alt="Roger's GitHub Stats" />
+   <a href="https://github.com/rogerdevworld"><img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rogerdevworld&theme=radical&hide_border=true" alt="Top Languages" /></a>
 </a>
- <a href="https://github.com/rogerdevworld"><img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rogerdevworld&theme=radical&hide_border=true" alt="Top Languages" /></a>
