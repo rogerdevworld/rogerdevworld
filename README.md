@@ -48,5 +48,8 @@ I am a developer focused on building modern web solutions, with a particular int
 ## 📊 GitHub Stats
 
 ### GitHub Statistics:
-| <a href="https://github.com/rogerdevworld"><img align="center" src="https://github-readme-stats.vercel.app/api?username=rogerdevworld&show_icons=true&include_all_commits=true&theme=radical&count_private=true&hide_border=true" alt="Roger's GitHub Stats" /></a> | <a href="https://github.com/rogerdevworld"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rogerdevworld&layout=compact&theme=radical&hide_border=true" alt="Top Languages" /></a> |
+| <a href="https://github.com/rogerdevworld">
+  <img src="https://github-readme-stats.vercel.app/api?username=rogerdevworld&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" alt="Roger's GitHub Stats" />
+</a>
+ | <a href="https://github.com/rogerdevworld"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rogerdevworld&layout=compact&theme=radical&hide_border=true" alt="Top Languages" /></a> |
 | ------------- | ------------- |
